@@ -1,4 +1,12 @@
 <template>
+  <Head>
+    <meta
+      type="description"
+      content="Information about my app"
+      head-key="description"
+    >
+  </Head>
+
   <section class="p-6 bg-gray-200">
     <header class="flex justify-between">
       <div class="flex items-center">
