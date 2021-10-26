@@ -27,5 +27,5 @@ module.exports = {
       },
     ],
   },
-  globals: { require: true },
+  globals: { require: true, defineProps: true },
 };
